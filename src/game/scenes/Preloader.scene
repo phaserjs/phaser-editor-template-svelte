@@ -7,6 +7,7 @@
         "preloadPackFiles": [],
         "createMethodName": "editorCreate",
         "sceneKey": "Preloader",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
         "borderWidth": 1024,
         "borderHeight": 768
     },
@@ -26,8 +27,8 @@
             "id": "845d4ca6-7417-44fc-97e3-a3bb2fbbdd03",
             "label": "progressBar",
             "scope": "CLASS",
-            "x": 704,
-            "y": 158,
+            "x": 512,
+            "y": 384,
             "isFilled": true,
             "fillColor": "#e0e0e0",
             "isStroked": true,

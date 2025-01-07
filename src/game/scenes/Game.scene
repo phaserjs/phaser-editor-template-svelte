@@ -7,6 +7,7 @@
         "preloadPackFiles": [],
         "createMethodName": "editorCreate",
         "sceneKey": "Game",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
         "borderWidth": 1024,
         "borderHeight": 768
     },
@@ -26,7 +27,7 @@
             "type": "Text",
             "id": "14c27edb-9072-4bd8-8db8-18bd78fefb3a",
             "label": "text",
-            "x": 512,
+            "x": 513,
             "y": 384,
             "originX": 0.5,
             "originY": 0.5,
